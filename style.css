@@ -1,0 +1,22 @@
+img{
+    width: 600px;
+    height: 400px;
+}
+body{
+    text-align: center;
+    color: blue;
+font-family: 'Architects Daughter', cursive;
+        
+}
+div{
+    margin-top: 15px;
+}
+.image-section{
+    display: flex;
+    justify-content: center;
+}
+.section-style{
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: white;
+}
